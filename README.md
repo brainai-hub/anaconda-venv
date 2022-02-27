@@ -27,7 +27,7 @@
  
  1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 아래 이미지를 참고합니다.
  
- <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:600px;height:240px;">
+ <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:669px;height:257px;">
  
 ## 2. Visual Studion 패키지 설치
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
