@@ -21,11 +21,13 @@
  
  1.2 다운 받은 파일을 찾아 설치한다. 설치 시 아래 이미지를 참고 한다.
  
- <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:669px;height:257px;">
+ <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:600px;height:240px;">
  
 ## 2. Visual Studion 패키지 설치
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
  다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
+ 
+  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:600px;height:240px;">
 
 ## 3. 가상 학습 환경 만들기
  - (base) C:\WINDOWS\system32\cd\
