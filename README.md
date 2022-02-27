@@ -52,4 +52,7 @@
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 가상 학습 환경 테스트
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda3-2021.05-Windows-x86_64-07.JPG">
+
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:684px;height:234px;">
+
+
