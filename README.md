@@ -33,7 +33,7 @@
 
  Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
  
- <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:682px;height:318px;">
+ <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
  - (base) C:\WINDOWS\system32\cd\
  - (base) C:\mkdir BrainAI
