@@ -5,8 +5,8 @@
 ## 1. 아나콘다(Anaconda) 설치
  
  다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
- <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda3-2021.05-Windows-x86_64.JPG">
-
+ <a href="https://repo.anaconda.com/archive/"><img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda3-2021.05-Windows-x86_64.JPG"> </a>
+ 
 ## 2. Visual Studion 패키지 설치
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
  다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
