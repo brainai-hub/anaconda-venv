@@ -27,7 +27,7 @@
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
  다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
  
-  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:600px;height:240px;">
+  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
 ## 3. 가상 학습 환경 만들기
  - (base) C:\WINDOWS\system32\cd\
