@@ -13,13 +13,13 @@
 
 ## 1. 아나콘다(Anaconda) 설치
 
- 1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운 받는다.
+ 1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.
 
  <a href="https://repo.anaconda.com/archive/" target="_blank"> <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
 
  다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
  
- 1.2 다운 받은 파일을 찾아 설치한다. 설치 시 아래 이미지를 참고 한다.
+ 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 아래 이미지를 참고합니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:600px;height:240px;">
  
@@ -30,6 +30,11 @@
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
 ## 3. 가상 학습 환경 만들기
+
+ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
+ 
+ <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:760px;height:200px;">
+ 
  - (base) C:\WINDOWS\system32\cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
