@@ -1,14 +1,20 @@
 # 인공지능을 배우기 위한 가상 학습 환경 만들기
   
+  인텔 Digital Readiness programs 중 AI for Youth Program의 <br>
+  Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. 
+  
   <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target="_blank"> Intel® Digital Readiness Programs </a> <br>
   
   AI for Youth <br>
   For high school students.
 
-  Module 5, Module 6, Module 8, Module 9
-
-  - Anaconda python 3.8
-  - Tensorflow 2.8
+  * 설치 프로그램 및 버전
+    - Anaconda python 3.8
+    - Tensorflow 2.8
+    - Opencv
+    - Pyserial
+    - imultils
+    
   <br><br>
 
 ## 1. 아나콘다(Anaconda) 설치
@@ -31,7 +37,7 @@
 
 ## 3. 가상 학습 환경 만들기
 
- Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
+ 3.1 Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
@@ -43,7 +49,8 @@
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
 
-## Tensorflow 2.8 설치하기
+ 3.2 Tensorflow 2.8 설치하기
+ 
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow
  - (BrainAI) C:\BrainAI>pip install --opencv-python
@@ -51,8 +58,12 @@
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>jupyter lab
 
-## 가상 학습 환경 테스트
+ 3.3 가상 학습 환경 테스트
+
+  Tensorflow 2.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
 <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:684px;height:234px;">
 
+
+# 수고하셨습니다. 
 
