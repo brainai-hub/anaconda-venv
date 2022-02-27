@@ -11,7 +11,6 @@
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
  다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-
 ## 3. 가상 학습 환경 만들기
 
 
