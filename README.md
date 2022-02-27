@@ -13,11 +13,15 @@
 
 ## 1. 아나콘다(Anaconda) 설치
 
- 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 다운 받아 설치합니다.
+ 1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 다운 받아 설치합니다.
 
  <a href="https://repo.anaconda.com/archive/" target="_blank"> <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
 
  다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
+ 
+ 1.2 설치시 유의 사항
+ 
+ <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;">
  
 ## 2. Visual Studion 패키지 설치
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
