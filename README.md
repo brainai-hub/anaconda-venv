@@ -53,6 +53,6 @@
 
 ## 가상 학습 환경 테스트
 
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:684px;height:234px;">
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:684px;height:234px;">
 
 
