@@ -10,6 +10,9 @@
 - Anaconda python 3.8
 - Tensorflow 2.8
 
+
+
+
 ## 1. 아나콘다(Anaconda) 설치
  
  다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
