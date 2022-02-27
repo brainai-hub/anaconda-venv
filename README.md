@@ -1,17 +1,15 @@
 # 인공지능을 배우기 위한 가상 학습 환경 만들기
   
-  <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target="_blank"> Intel® Digital Readiness Programs </a> <br><br>
+  <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target="_blank"> Intel® Digital Readiness Programs </a> <br>
   
   AI for Youth <br>
   For high school students.
 
   Module 5, Module 6, Module 8, Module 9
 
-- Anaconda python 3.8
-- Tensorflow 2.8
-
-
-
+  - Anaconda python 3.8
+  - Tensorflow 2.8
+  <br><br>
 
 ## 1. 아나콘다(Anaconda) 설치
  
