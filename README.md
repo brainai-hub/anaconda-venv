@@ -12,6 +12,21 @@
  다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
 
 ## 3. 가상 학습 환경 만들기
-
+ - (base) C:\WINDOWS\system32\cd\
+ - (base) C:\mkdir BrainAI
+ - (base) C:\cd BrainAI
+ - (base) C:\BrainAI>conda update -n base -c default conda
+ - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
+ - (base) C:\BrainAI>conda activate BrainAI
+ - (BrainAI) C:\BrainAI>
 
 ## Tensorflow 2.8 설치하기
+ - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
+ - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow
+ - (BrainAI) C:\BrainAI>pip install --opencv-python
+ - (BrainAI) C:\BrainAI>pip install imultils
+ - (BrainAI) C:\BrainAI>pip install pyserial
+ - (BrainAI) C:\BrainAI>jupyter lab
+
+## 가상 학습 환경 테스트
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda3-2021.05-Windows-x86_64.JPG">
