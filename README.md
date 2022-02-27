@@ -1,6 +1,5 @@
 # 인공지능을 배우기 위한 가상 학습 환경 만들기
-- Anaconda 3.8
-- Python 3.8
+- Anaconda python 3.8
 - Tensorflow 2.8
 
 ## 1. 아나콘다(Anaconda) 설치
