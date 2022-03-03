@@ -1,5 +1,5 @@
 # 인공지능을 배우기 위한 가상 학습 환경 만들기 1.
-  ## 아나콘다 파이썬 3.8 버전 설치
+  ## 아나콘다 파이썬 3.7 버전 설치
       
   인텔 Digital Readiness programs 중 AI for Youth Program의 <br>
   Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. 
@@ -10,7 +10,8 @@
   For high school students.
 
   * 설치 프로그램 및 버전
-    - Anaconda python 3.8 : Anaconda3-2021.05-Windows-x86_64.exe
+    - Anaconda python 3.7 : 
+      https://docs.anaconda.com/anaconda/packages/py3.7_win-64/
     - Tensorflow 2.8
     - Opencv
     - Pyserial
