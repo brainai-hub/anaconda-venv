@@ -10,7 +10,7 @@
   For high school students.
 
   * 설치 프로그램 및 버전
-    - Anaconda python 3.8
+    - Anaconda python 3.8 : Anaconda3-2021.05-Windows-x86_64.exe
     - Tensorflow 2.8
     - Opencv
     - Pyserial
