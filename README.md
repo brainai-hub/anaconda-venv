@@ -45,7 +45,7 @@
  - (base) C:\WINDOWS\system32\cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda create --name BrainAI python=3.7
+ - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
     * 참고 링크1: https://docs.conda.io/projects/conda/en/latest/commands/create.html
     * 참고 링크2: https://yganalyst.github.io/pythonic/anaconda_env_1/ 
  - (base) C:\BrainAI>conda activate BrainAI
