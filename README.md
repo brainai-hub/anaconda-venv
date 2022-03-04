@@ -27,9 +27,9 @@
 
  다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
  
- 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 아래 이미지를 참고합니다.
+ 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 링크를 참고합니다.
  
- <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:669px;height:257px;">
+ 아나콘다 파이썬 3.8 버전 설치 링크 : https://docs.anaconda.com/anaconda/install/windows/
  
 ## 2. Visual Studion 패키지 설치
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
