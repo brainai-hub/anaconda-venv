@@ -60,7 +60,7 @@
  - (BrainAI) C:\BrainAI>conda update --name BrainAI pip
  - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow==2.6.0
     * 참고 링크: https://www.tensorflow.org/install
- - (BrainAI) C:\BrainAI>pip install --opencv-python
+ - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install imultils
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>jupyter lab
