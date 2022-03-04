@@ -8,7 +8,7 @@
   
   AI for Youth 참고 사이트: https://brainai.kr/ai4y/
   
-[건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
+[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
   * 설치 프로그램 및 버전
   1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8 - (base)C:\
