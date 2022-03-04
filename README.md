@@ -46,7 +46,8 @@
  - (base) C:\WINDOWS\system32\cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda update -n base -c default conda
+ - (base) C:\BrainAI>conda update -n base -c default conda<br>
+    * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands/update.html#
  - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
