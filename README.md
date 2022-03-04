@@ -10,13 +10,11 @@
   For high school students.
 
   * 설치 프로그램 및 버전
-    - Anaconda python 3.7 : 
-      https://docs.anaconda.com/anaconda/packages/py3.7_win-64/
-    - Tensorflow 2.8
-    - Opencv
-    - Pyserial
-    - imultils
-    
+    - Anaconda python 3.8
+    - 아나콘다 가상 환경
+      * Python 3.7 <br>
+        참고 링크: https://docs.anaconda.com/anaconda/packages/py3.7_win-64/
+      * Package: pip 최신 버전 & Tensorflow 2.6.0 & opencv-python & Pyserial & imutils
   <br><br>
 
 ## 1. 아나콘다(Anaconda) 설치
