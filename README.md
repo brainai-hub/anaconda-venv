@@ -72,7 +72,7 @@
 
   Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-00.JPG" style="width:684px;height:234px;">
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:684px;height:234px;">
 
 ## 4. 가상 학습 환경 삭제하기
 
