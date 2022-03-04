@@ -10,7 +10,7 @@
   For high school students.
 
   * 설치 프로그램 및 버전
-  1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8   파이썬 버전 3.8 - (base)C:\
+  1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8 - (base)C:\
   2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
   3. 아나콘다 가상 학습 환경 만들기
     - 파이썬: 버전 Python 3.8 - (BrainAI)C:\ <br>
