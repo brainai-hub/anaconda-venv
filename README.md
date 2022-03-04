@@ -15,7 +15,7 @@
   3. 아나콘다 가상 학습 환경 만들기
     - 파이썬: 버전 Python 3.8 - (BrainAI)C:\ <br>
       참고 링크: https://docs.anaconda.com/anaconda/packages/py3.8_win-64/  <br>
-    - 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.#.#) & opencv-python & Pyserial & imutils
+  4. 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.#.#) & opencv-python & Pyserial & imutils
   <br><br>
 
 ## 1. 아나콘다(Anaconda) 설치
