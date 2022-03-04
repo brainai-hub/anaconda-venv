@@ -7,7 +7,9 @@
   <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target="_blank"> Intel® Digital Readiness Programs </a> <br>
   
   AI for Youth 참고 사이트: https://brainai.kr/ai4y/
+  
 [건망증이 심한 엔지니어](https://techstock.biz){:target="_blank"}
+
   * 설치 프로그램 및 버전
   1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8 - (base)C:\
   2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
