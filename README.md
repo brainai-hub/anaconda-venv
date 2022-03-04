@@ -55,7 +55,7 @@
 
  3.2 Tensorflow 2.6.0 설치하기
  
- - (BrainAI) C:\BrainAI>pip install --upgrade pip
+ - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
     * 참고 링크: https://pypi.org/project/pip/
  - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow==2.6.0
     * 참고 링크: https://www.tensorflow.org/install
