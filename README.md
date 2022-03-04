@@ -48,8 +48,9 @@
  - (base) C:\cd BrainAI
  - (base) C:\BrainAI>conda update -n base -c default conda<br>
     * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands/update.html#
- - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
-    * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands/create.html
+ - (base) C:\BrainAI>conda create --name BrainAI python=3.7
+    * 참고 링크1: https://docs.conda.io/projects/conda/en/latest/commands/create.html
+    * 참고 링크2: https://yganalyst.github.io/pythonic/anaconda_env_1/ 
  - (base) C:\BrainAI>conda activate BrainAI
     * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands
  - (BrainAI) C:\BrainAI>
