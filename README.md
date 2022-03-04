@@ -74,6 +74,12 @@
 
 <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:684px;height:234px;">
 
+## 4. 가상 학습 환경 삭제하기
+
+  위의 3번 실습 중에 가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 아래 링크를 참고하세요. 
+
+  참고 링크: https://ssilook.tistory.com/99
+
 
 ### 수고하셨습니다. 
 
