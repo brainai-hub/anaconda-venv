@@ -4,11 +4,10 @@
   인텔 Digital Readiness programs 중 AI for Youth Program의 <br>
   Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. 
   
-  <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target="_blank"> Intel® Digital Readiness Programs </a> <br>
+  <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a> <br>
   
   AI for Youth 참고 사이트: https://brainai.kr/ai4y/
   
-[새 탭에서 열기](https://www.google.com/){:target="_blank"}
 
   * 설치 프로그램 및 버전
   1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8 - (base)C:\
