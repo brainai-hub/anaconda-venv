@@ -55,10 +55,11 @@
     * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands
  - (BrainAI) C:\BrainAI>
 
- 3.2 Tensorflow 2.8 설치하기
+ 3.2 Tensorflow 2.6.0 설치하기
  
- - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
- - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow
+ - (BrainAI) C:\BrainAI>conda update --name BrainAI pip
+ - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow==2.6.0
+    * 참고 링크: https://www.tensorflow.org/install
  - (BrainAI) C:\BrainAI>pip install --opencv-python
  - (BrainAI) C:\BrainAI>pip install imultils
  - (BrainAI) C:\BrainAI>pip install pyserial
@@ -66,7 +67,7 @@
 
  3.3 가상 학습 환경 테스트
 
-  Tensorflow 2.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
+  Tensorflow 2.6.0 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
 <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:684px;height:234px;">
 
