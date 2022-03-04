@@ -38,7 +38,7 @@
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
 ## 3. 가상 학습 환경 만들기
-
+  * 참고 링크: https://dojang.io/mod/page/view.php?id=2470<br>
  3.1 Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
@@ -46,8 +46,8 @@
  - (base) C:\WINDOWS\system32\cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda update -n base -c default conda<br>
-    * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands/update.html#
+ - (base) C:\BrainAI>pip install --upgrade pip
+    * 참고 링크: https://pypi.org/project/pip/
  - (base) C:\BrainAI>conda create --name BrainAI python=3.7
     * 참고 링크1: https://docs.conda.io/projects/conda/en/latest/commands/create.html
     * 참고 링크2: https://yganalyst.github.io/pythonic/anaconda_env_1/ 
@@ -58,10 +58,13 @@
  3.2 Tensorflow 2.6.0 설치하기
  
  - (BrainAI) C:\BrainAI>conda update --name BrainAI pip
+    * 참고 링크: conda update --name BrainAI pip==22.0.3
  - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow==2.6.0
     * 참고 링크: https://www.tensorflow.org/install
  - (BrainAI) C:\BrainAI>pip install opencv-python
- - (BrainAI) C:\BrainAI>pip install imultils
+    * 참고 링크: https://pypi.org/project/opencv-python/
+ - (BrainAI) C:\BrainAI>pip install imutils
+    * 참고 링크: https://pypi.org/project/imutils/
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>jupyter lab
 
