@@ -46,8 +46,6 @@
  - (base) C:\WINDOWS\system32\cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>pip install --upgrade pip
-    * 참고 링크: https://pypi.org/project/pip/
  - (base) C:\BrainAI>conda create --name BrainAI python=3.7
     * 참고 링크1: https://docs.conda.io/projects/conda/en/latest/commands/create.html
     * 참고 링크2: https://yganalyst.github.io/pythonic/anaconda_env_1/ 
@@ -57,8 +55,8 @@
 
  3.2 Tensorflow 2.6.0 설치하기
  
- - (BrainAI) C:\BrainAI>conda update --name BrainAI pip
-    * 참고 링크: conda update --name BrainAI pip==22.0.3
+ - (BrainAI) C:\BrainAI>pip install --upgrade pip
+    * 참고 링크: https://pypi.org/project/pip/
  - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow==2.6.0
     * 참고 링크: https://www.tensorflow.org/install
  - (BrainAI) C:\BrainAI>pip install opencv-python
