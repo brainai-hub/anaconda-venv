@@ -10,12 +10,12 @@
   For high school students.
 
   * 설치 프로그램 및 버전
-    1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8
-    2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
-    3. 아나콘다 가상 환경 만들기
-      * 파이썬: 버전 Python 3.7 <br>
-        참고 링크: https://docs.anaconda.com/anaconda/packages/py3.7_win-64/
-      * 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.6.0) & opencv-python & Pyserial & imutils
+  1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8
+  2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
+  3. 아나콘다 가상 환경 만들기
+    - 파이썬: 버전 Python 3.7 <br>
+      참고 링크: https://docs.anaconda.com/anaconda/packages/py3.7_win-64/
+    - 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.6.0) & opencv-python & Pyserial & imutils
   <br><br>
 
 ## 1. 아나콘다(Anaconda) 설치
