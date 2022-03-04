@@ -63,6 +63,9 @@
  - (BrainAI) C:\BrainAI>pip install imutils
     * 참고 링크: https://pypi.org/project/imutils/
  - (BrainAI) C:\BrainAI>pip install pyserial
+    * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
+ - (BrainAI) C:\BrainAI>pip install jupyterlab
+    * 참고 링크: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
  - (BrainAI) C:\BrainAI>jupyter lab
 
  3.3 가상 학습 환경 테스트
