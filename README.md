@@ -1,5 +1,5 @@
 # 인공지능을 배우기 위한 가상 학습 환경 만들기 1.
-  ## 아나콘다 파이썬 3.7 버전 설치
+  ## 아나콘다 파이썬 3.8 버전 설치
       
   인텔 Digital Readiness programs 중 AI for Youth Program의 <br>
   Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. 
@@ -13,9 +13,9 @@
   1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8   파이썬 버전 3.8 - (base)C:\
   2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
   3. 아나콘다 가상 학습 환경 만들기
-    - 파이썬: 버전 Python 3.7 - (BrainAI)C:\ <br>
-      참고 링크: https://docs.anaconda.com/anaconda/packages/py3.7_win-64/
-    - 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.6.0) & opencv-python & Pyserial & imutils
+    - 파이썬: 버전 Python 3.8 - (BrainAI)C:\ <br>
+      참고 링크: https://docs.anaconda.com/anaconda/packages/py3.8_win-64/
+    - 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.#.#) & opencv-python & Pyserial & imutils
   <br><br>
 
 ## 1. 아나콘다(Anaconda) 설치
@@ -52,11 +52,11 @@
     * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands
  - (BrainAI) C:\BrainAI>
 
- 3.2 Tensorflow 2.6.0 설치하기
+ 3.2 Tensorflow 2.#.# 설치하기
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
     * 참고 링크: https://pypi.org/project/pip/
- - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow==2.6.0
+ - (BrainAI) C:\BrainAI>pip install --upgrade tensorflow
     * 참고 링크: https://www.tensorflow.org/install
  - (BrainAI) C:\BrainAI>pip install opencv-python
     * 참고 링크: https://pypi.org/project/opencv-python/
@@ -64,13 +64,11 @@
     * 참고 링크: https://pypi.org/project/imutils/
  - (BrainAI) C:\BrainAI>pip install pyserial
     * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
- - (BrainAI) C:\BrainAI>pip install jupyterlab
-    * 참고 링크: https://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html
  - (BrainAI) C:\BrainAI>jupyter lab
 
  3.3 가상 학습 환경 테스트
 
-  Tensorflow 2.6.0 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
+  Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
 <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:684px;height:234px;">
 
