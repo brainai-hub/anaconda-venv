@@ -1,7 +1,7 @@
 # 인공지능을 배우기 위한 가상 학습 환경 만들기 1.
   ## 아나콘다 파이썬 3.8 버전 설치
       
-    <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a> <br> 중 AI for Youth Program의 <br>
+<a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a>  중 AI for Youth Program의 <br>
   Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. 
   
   <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a> <br>
