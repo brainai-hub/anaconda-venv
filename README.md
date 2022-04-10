@@ -8,14 +8,10 @@
   
 
   * 설치 프로그램 및 버전
-  1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8 - (base)C:\
-    - 참고 링크 : https://repo.anaconda.com/archive/
-  2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
+  1. 아나콘다(Anaconda) 설치
+  2. Visual Studion 패키지 설치
   3. 아나콘다 가상 학습 환경 만들기
-    - 파이썬: 버전 Python 3.8 - (BrainAI)C:\ <br>
-      참고 링크: https://docs.anaconda.com/anaconda/packages/py3.8_win-64/  <br>
-  4. 라이브러리 및 패키지: pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.#.#) & opencv-python & Pyserial & imutils
-  <br><br>
+  4. 라이브러리 및 패키지 설치
 
 ## 1. 아나콘다(Anaconda) 설치
 
@@ -23,7 +19,8 @@
  
    - 다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
  <a href="https://repo.anaconda.com/archive/" target="_blank"> <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
-
+   - 참고 링크: https://repo.anaconda.com/archive/<br>
+   - 참고 링크: 참고 링크: https://docs.anaconda.com/anaconda/packages/py3.8_win-64/ <br>
  1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지를 참고하세요.
  
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:849px;height:335px;">
@@ -36,9 +33,9 @@
  
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
-## 3. 가상 학습 환경 만들기
-  * 참고 링크: https://dojang.io/mod/page/view.php?id=2470<br>
- 3.1 Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
+## 3. 아나콘다 가상 학습 환경 만들기
+  * 참고 링크: https://dojang.io/mod/page/view.php?id=2470 <br>
+  * Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
@@ -52,7 +49,9 @@
     * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands
  - (BrainAI) C:\BrainAI>
 
- 3.2 Tensorflow 2.#.# 설치하기
+## 4. 라이브러리 및 패키지 설치
+   * pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.#.#) & opencv-python & Pyserial & imutils
+  <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
     * 참고 링크: https://pypi.org/project/pip/
@@ -66,13 +65,13 @@
     * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
  - (BrainAI) C:\BrainAI>jupyter lab
 
- 3.3 가상 학습 환경 테스트
+  * 가상 학습 환경 테스트
 
   Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
 <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:1189px;height:290px;">
 
-## 4. 가상 학습 환경 삭제하기
+## Tip. 가상 학습 환경 삭제하기
 
   가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 아래 링크를 참고하세요. 
 
