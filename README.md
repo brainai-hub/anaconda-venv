@@ -11,6 +11,7 @@
 
   * 설치 프로그램 및 버전
   1. 아나콘다(Anaconda) 설치: 버전 Anaconda python 3.8 - (base)C:\
+    - 참고 링크 : https://repo.anaconda.com/archive/
   2. Visual Studion 패키지 설치: 버전 vc_redist.x64.exe
   3. 아나콘다 가상 학습 환경 만들기
     - 파이썬: 버전 Python 3.8 - (BrainAI)C:\ <br>
@@ -20,12 +21,11 @@
 
 ## 1. 아나콘다(Anaconda) 설치
 
- 1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.
-
+ 1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.<br>
+ 
+   - 다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
  <a href="https://repo.anaconda.com/archive/" target="_blank"> <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
 
- 다운로드 링크: https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
- 
  1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지를 참고하세요.
  
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:849px;height:335px;">
