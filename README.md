@@ -4,10 +4,11 @@
 <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a>  중 AI for Youth Program의 <br>
   Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. 
   
-  AI for Youth 참고 사이트: https://brainai.kr/ai4y/
+  AI for Youth 참고 사이트: https://brainai.kr/ai4y/ <br>
+  AI for Youth 프로그램 코딩 실습 및 프로젝트 개발 실습은 초보자도 쉽게 시작할 수 있는 아나콘다 주피터 랩 환경을 이용합니다.<br>
   
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:1189px;height:290px;"><br>
 
-  * 설치 프로그램 및 버전
   1. 아나콘다(Anaconda) 설치
   2. Visual Studion 패키지 설치
   3. 아나콘다 가상 학습 환경 만들기
