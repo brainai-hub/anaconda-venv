@@ -1,4 +1,4 @@
-# 인공지능을 배우기 위한 가상 학습 환경 만들기 1.
+# Intel® AI For Youth 프로그램 학습을 위한 가상 학습 환경 만들기.
   ## 아나콘다 파이썬 3.8 버전 설치
       
 <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a>  중 AI for Youth Program의 <br>
@@ -64,6 +64,8 @@
     * 참고 링크: https://pypi.org/project/imutils/
  - (BrainAI) C:\BrainAI>pip install pyserial
     * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
+ - (BrainAI) C:\BrainAI>pip install openvino
+    * 참고 링크: https://pypi.org/project/openvino/
  - (BrainAI) C:\BrainAI>jupyter lab
 
   * 가상 학습 환경 테스트
