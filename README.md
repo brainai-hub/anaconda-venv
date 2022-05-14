@@ -80,6 +80,11 @@
 
   참고 링크: https://ssilook.tistory.com/99
 
+## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
+
+  인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. 
+
+  참고 링크: https://github.com/openvinotoolkit/open_model_zoo/tree/releases/2022/1
 
 ### 수고하셨습니다. 
 
