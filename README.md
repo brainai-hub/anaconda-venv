@@ -37,8 +37,8 @@
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
 ## 3. 아나콘다 가상 학습 환경 만들기
-  * 참고 링크: https://dojang.io/mod/page/view.php?id=2470 <br>
-  * Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
+참고 링크: https://dojang.io/mod/page/view.php?id=2470 <br>
+Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
