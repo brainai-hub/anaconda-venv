@@ -66,6 +66,8 @@
     * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
  - (BrainAI) C:\BrainAI>pip install openvino
     * 참고 링크: https://pypi.org/project/openvino/
+ - (BrainAI) C:\BrainAI>pip install openvino-dev
+    * 참고 링크:https://pypi.org/project/openvino-dev/
  - (BrainAI) C:\BrainAI>jupyter lab
 
   * 가상 학습 환경 테스트
