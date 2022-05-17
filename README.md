@@ -7,6 +7,8 @@
   AI for Youth 참고 사이트: https://brainai.kr/ai4y/ <br>
   AI for Youth 프로그램 코딩 실습 및 프로젝트 개발 실습은 초보자도 쉽게 시작할 수 있는 아나콘다 주피터 랩 환경을 이용합니다.<br>
   
+  모든 설치가 완료되고 아래 이미지에서 처럼 실행되면 사전과제를 성공적으로 수행한 것입니다. 
+  
 <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:1189px;height:290px;"><br>
 
   1. 아나콘다(Anaconda) 설치
