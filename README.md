@@ -53,7 +53,7 @@
  - (BrainAI) C:\BrainAI>
 
 ## 4. 라이브러리 및 패키지 설치
-   * pip 최신 버전 & 텐서플로우(버전 Tensorflow 2.#.#) & opencv-python & Pyserial & imutils
+  pip 최신 버전, 텐서플로우(버전 Tensorflow 2.#.#), opencv-python, Pyserial, imutils, openvino, openvino-dev 등
   <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
