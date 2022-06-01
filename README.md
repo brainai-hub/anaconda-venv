@@ -9,7 +9,7 @@
   
   모든 설치가 완료되고 아래 이미지에서 처럼 실행되면 사전과제를 성공적으로 수행한 것입니다. 
   
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:640px;height:150px;"><br>
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:589px;height:238px;"><br>
 
   1. 아나콘다(Anaconda) 설치
   2. Visual Studion 패키지 설치
@@ -78,7 +78,7 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
 
   Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:1189px;height:290px;">
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:589px;height:238px;;">
 
 ## Tip. 가상 학습 환경 삭제하기
 
