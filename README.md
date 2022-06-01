@@ -9,7 +9,7 @@
   
   모든 설치가 완료되고 아래 이미지에서 처럼 실행되면 사전과제를 성공적으로 수행한 것입니다. 
   
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:1189px;height:290px;"><br>
+<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:640px;height:290px;"><br>
 
   1. 아나콘다(Anaconda) 설치
   2. Visual Studion 패키지 설치
