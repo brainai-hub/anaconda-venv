@@ -53,7 +53,7 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
  - (BrainAI) C:\BrainAI>
 
 ## 4. 라이브러리 및 패키지 설치
-  pip 최신 버전, 텐서플로우, 넘파이(버전 numpy tensorflow==2.4 numpy==1.19), opencv-python, Pyserial, imutils, openvino, openvino-dev 등
+  pip 최신 버전, 텐서플로우, 넘파이(버전 numpy tensorflow==2.4 numpy==1.19), opencv-python, Pyserial, imutils, openvino, openvino-dev(버전 2022.1.0) 등
   <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
@@ -70,7 +70,7 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
     * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
  - (BrainAI) C:\BrainAI>pip install openvino
     * 참고 링크: https://pypi.org/project/openvino/
- - (BrainAI) C:\BrainAI>pip install openvino-dev
+ - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.1.0
     * 참고 링크:https://pypi.org/project/openvino-dev/
  - (BrainAI) C:\BrainAI>jupyter lab
 
