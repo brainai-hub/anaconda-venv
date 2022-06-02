@@ -71,6 +71,7 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.1.0
     * 참고 링크:https://pypi.org/project/openvino-dev/
  - (BrainAI) C:\BrainAI> pip install openvino-dev[tensorflow]
+ - (BrainAI) C:\BrainAI> pip install openvino-dev[extras]
  - (BrainAI) C:\BrainAI>jupyter lab
 
   * 가상 학습 환경 테스트
