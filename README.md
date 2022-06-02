@@ -83,8 +83,10 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
 ## Tip. 가상 학습 환경 삭제하기
 
   가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 아래 링크를 참고하세요. 
-
-  참고 링크: https://ssilook.tistory.com/99
+    * Anaconda Prompt(Anaconda3)에서 
+ - (Base) C:\WINDOWS\System32\conda info --envs
+    * 가상환경 이름 확인
+ - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
 
 ## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
 
