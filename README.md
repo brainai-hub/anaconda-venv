@@ -55,9 +55,10 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
     * 참고 링크: https://pypi.org/project/pip/
- - (BrainAI) C:\BrainAI>pip install tensorflow --upgrade
+ - (BrainAI) C:\BrainAI>pip install tensorflow==2.5
     * 참고 링크: https://www.tensorflow.org/install
- - (BrainAI) C:\BrainAI> pip install numpy --upgrade
+ - (BrainAI) C:\BrainAI> pip install numpy==1.19.5
+    * 참고 링크: https://numpy.org/devdocs/release/1.19.5-notes.html
  - (BrainAI) C:\BrainAI>pip install opencv-python
     * 참고 링크: https://pypi.org/project/opencv-python/
  - (BrainAI) C:\BrainAI>pip install imutils
