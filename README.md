@@ -7,10 +7,7 @@
   AI for Youth 참고 사이트: https://brainai.kr/ai4y/ <br>
   AI for Youth 프로그램 코딩 실습 및 프로젝트 개발 실습은 초보자도 쉽게 시작할 수 있는 아나콘다 주피터 랩 환경을 이용합니다.<br>
   
-  모든 설치가 완료되고 아래 이미지에서 처럼 실행되면 사전과제를 성공적으로 수행한 것입니다. 
-  
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:589px;height:238px;"><br>
-
+ 
   1. 아나콘다(Anaconda) 설치
   2. Visual Studion 패키지 설치
   3. 아나콘다 가상 학습 환경 만들기
@@ -76,9 +73,11 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
 
   * 가상 학습 환경 테스트
 
-  Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
+ - 주피터 랩에서 아래 코드 입력 
+   import tensorflow as tf
+   print(tf.__version__)
+  - Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
-<img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-07.JPG" style="width:589px;height:238px;;">
 
 ## Tip. 가상 학습 환경 삭제하기
 
