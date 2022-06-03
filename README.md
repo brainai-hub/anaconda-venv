@@ -6,8 +6,8 @@
   Stage 4. 소셜임팩트 창출하기 / Module 11 Use Cases 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. <br>
   AI for Youth 참고 사이트: https://brainai.kr/ai4y/ <br>
   AI for Youth 프로그램 코딩 실습 및 프로젝트 개발 실습은 초보자도 쉽게 시작할 수 있는 아나콘다 주피터 랩 환경을 이용합니다.<br>
+  AI for Youth 프로그램을 이용한 AI 학습을 위해 다음 순서로 가상 학습 환경을 만들어 봅시다.
   
- 
   1. 아나콘다(Anaconda) 설치
   2. Visual Studion 패키지 설치
   3. 아나콘다 가상 학습 환경 만들기
