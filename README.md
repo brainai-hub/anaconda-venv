@@ -65,7 +65,7 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
     * 참고 링크: https://pypi.org/project/imutils/
  - (BrainAI) C:\BrainAI>pip install pyserial
     * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
- - (BrainAI) C:\BrainAI>pip install openvino
+ - (BrainAI) C:\BrainAI>pip install openvino==2022.1.0
     * 참고 링크: https://pypi.org/project/openvino/
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.1.0
     * 참고 링크:https://pypi.org/project/openvino-dev/
