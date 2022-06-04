@@ -94,5 +94,9 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
 
   참고 링크: https://github.com/openvinotoolkit/open_model_zoo/tree/releases/2022/1
 
+  인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.
+  
+  참고 링크: https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.1/models_bin/
+  
 ### 수고하셨습니다. 
 
