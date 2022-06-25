@@ -9,7 +9,7 @@
   AI for Youth 프로그램을 이용한 AI 학습을 위해 다음 순서로 가상 학습 환경을 만들어 봅시다.
   
   1. 아나콘다(Anaconda) 설치
-  2. Visual Studion 패키지 설치
+  2. Visual Studio 패키지 설치
   3. 아나콘다 가상 학습 환경 만들기
   4. 라이브러리 및 패키지 설치
 
