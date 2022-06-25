@@ -74,9 +74,10 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
 
   * 가상 학습 환경 테스트
 
- - 주피터 랩에서 아래 코드 입력 
+ - 주피터 랩에서 아래 코드 입력 <br>
    import tensorflow as tf
    print(tf.__version__)
+   
   - Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
 
 
