@@ -27,7 +27,7 @@
 
   * 참고 링크: 아나콘다 파이썬 3.8 버전 설치 링크 : https://docs.anaconda.com/anaconda/install/windows/
  
-## 2. Visual Studion 패키지 설치
+## 2. Visual Studio 패키지 설치
  참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
  다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
  
