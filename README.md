@@ -1,4 +1,4 @@
-## Intel® AI or Youth 프로그램 학습을 위한 가상 학습 환경 만들기.
+## Intel® AI for Youth 프로그램 학습을 위한 가상 학습 환경 만들기.
   ## 아나콘다 파이썬 3.8 버전 설치
       
 <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a>  중 AI for Youth Program의 <br>
@@ -92,7 +92,7 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. 
 
-  참고 링크: https://github.com/openvinotoolkit/open_model_zoo/tree/releases/2022/1
+  참고 링크: https://docs.openvino.ai/2022.1/index.html
 
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.
   
