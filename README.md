@@ -17,7 +17,7 @@
 
  1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.<br>
  
-   - <font color='red'> 다운로드 링크:</font> https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
+   - <p style="color:red"> 다운로드 링크:</p> https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
  <a href="https://repo.anaconda.com/archive/" target="_blank"> 
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
