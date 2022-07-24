@@ -15,30 +15,32 @@
 
 ## 1. 아나콘다(Anaconda) 설치
 
- 1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.<br>
+1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.<br>
  
-   - <p style="color:red"> 다운로드 링크:</p> https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
+   - <b> 다운로드 링크:</b> https://repo.anaconda.com/archive/Anaconda3-2021.05-Windows-x86_64.exe <br>
  <a href="https://repo.anaconda.com/archive/" target="_blank"> 
- 
- <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
- 
+  
    - 참고 링크: https://repo.anaconda.com/archive/<br>
    - 참고 링크: https://docs.anaconda.com/anaconda/packages/py3.8_win-64/ <br>
- 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지를 참고하세요.
+   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-02.JPG" style="width:669px;height:257px;"> </a>
+
+1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지를 참고하세요.
  
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-03.JPG" style="width:849px;height:335px;">
 
   * 참고 링크: 아나콘다 파이썬 3.8 버전 설치 링크 : https://docs.anaconda.com/anaconda/install/windows/
  
 ## 2. Visual Studio 패키지 설치
- 참고 사이트 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
- 다운로드 링크: https://aka.ms/vs/17/release/vc_redist.x64.exe
- 
+
+  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+  - 참고 링크 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
+
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
 ## 3. 아나콘다 가상 학습 환경 만들기
-참고 링크: https://dojang.io/mod/page/view.php?id=2470 <br>
-Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
+
+  Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
@@ -46,36 +48,26 @@ Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
  - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
-    * 참고 링크1: https://docs.conda.io/projects/conda/en/latest/commands/create.html
-    * 참고 링크2: https://yganalyst.github.io/pythonic/anaconda_env_1/ 
  - (base) C:\BrainAI>conda activate BrainAI
-    * 참고 링크: https://docs.conda.io/projects/conda/en/latest/commands.html#conda-vs-pip-vs-virtualenv-commands
  - (BrainAI) C:\BrainAI>
 
 ## 4. 라이브러리 및 패키지 설치
-  pip 최신 버전, 텐서플로우, 넘파이, opencv-python, Pyserial, imutils, openvino, openvino-dev(버전 2022.1.0) 등
+
+  학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, 넘파이, opencv-python, Pyserial, imutils, openvino, openvino-dev(버전 2022.1.0) 등
   <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
-    * 참고 링크: https://pypi.org/project/pip/
  - (BrainAI) C:\BrainAI>pip install tensorflow==2.5
-    * 참고 링크: https://www.tensorflow.org/install
  - (BrainAI) C:\BrainAI> pip install numpy==1.19.5
-    * 참고 링크: https://numpy.org/devdocs/release/1.19.5-notes.html
  - (BrainAI) C:\BrainAI>pip install opencv-python
-    * 참고 링크: https://pypi.org/project/opencv-python/
  - (BrainAI) C:\BrainAI>pip install imutils
-    * 참고 링크: https://pypi.org/project/imutils/
  - (BrainAI) C:\BrainAI>pip install pyserial
-    * 참고 링크: https://pyserial.readthedocs.io/en/latest/pyserial.html
  - (BrainAI) C:\BrainAI>pip install openvino==2022.1.0
-    * 참고 링크: https://pypi.org/project/openvino/
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.1.0
-    * 참고 링크:https://pypi.org/project/openvino-dev/
  - (BrainAI) C:\BrainAI> pip install openvino-dev[tensorflow]
  - (BrainAI) C:\BrainAI>jupyter lab
 
-  * 가상 학습 환경 테스트
+## 5. 가상 학습 환경 테스트
 
  - 주피터 랩에서 아래 코드 입력 <br>
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/tensor_version.JPG" >
