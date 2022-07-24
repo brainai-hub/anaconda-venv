@@ -73,7 +73,7 @@
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/tensor_version.JPG" >
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/tensor_version_p.JPG" >
   
-  - Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다.
+<b> Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다. </b>
 
 
 ## Tip. 가상 학습 환경 삭제하기
