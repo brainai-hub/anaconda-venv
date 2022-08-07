@@ -70,7 +70,6 @@
 ## 5. 가상 학습 환경 테스트
 
  - 주피터 랩에서 아래 코드 입력 <br>
-  <img src="https://github.com/BrainAI-Lab/venv/blob/main/tensor_version.JPG" >
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/tensor_version_p.JPG" >
   
 <b> Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다. </b>
