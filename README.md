@@ -44,7 +44,7 @@
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
- - (base) C:\WINDOWS\system32\cd\
+ - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
  - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
