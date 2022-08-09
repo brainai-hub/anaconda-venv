@@ -93,5 +93,8 @@
   
   참고 링크: https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.1/models_bin/
   
+### 주피터랩 크롬 브라우저에 자동 실행이 안될 경우 아래 링크를 참고하세요.
+  참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
+  
 ### 수고하셨습니다. 
 
