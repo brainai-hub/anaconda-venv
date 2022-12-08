@@ -64,7 +64,8 @@
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>pip install openvino==2022.1.0
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.1.0
- - (BrainAI) C:\BrainAI> pip install openvino-dev[tensorflow]
+ - (BrainAI) C:\BrainAI>pip install openvino-dev[tensorflow]
+ - (BrainAI) C:\BrainAI>git clone --depth=1 https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 학습 환경 테스트
