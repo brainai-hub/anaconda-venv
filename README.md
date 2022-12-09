@@ -86,7 +86,7 @@
 ## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
  - Git 다운 로드 링크
 https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
- - (BrainAI) C:\BrainAI>git clone --depth=1 https://github.com/openvinotoolkit/openvino_notebooks.git
+ - 윈도 명령 프롬프트 C:\BrainAI>git clone --depth=1 https://github.com/openvinotoolkit/openvino_notebooks.git
 
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. 
