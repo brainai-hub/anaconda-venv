@@ -84,9 +84,8 @@
  - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
 
 ## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
- - Git 다운 로드
+ - Git 다운 로드 링크
 https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
-![image](https://user-images.githubusercontent.com/73767162/206596057-22050aa3-be28-44a1-a5f0-9056e0f1752a.png)
  - (BrainAI) C:\BrainAI>git clone --depth=1 https://github.com/openvinotoolkit/openvino_notebooks.git
 
 
