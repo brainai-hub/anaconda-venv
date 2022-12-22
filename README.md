@@ -80,7 +80,7 @@
   가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 아래 링크를 참고하세요. 
     * Anaconda Prompt(Anaconda3)에서 
  - (Base) C:\WINDOWS\System32\conda info --envs
-    * 가상환경 이름 확인
+    * 가상환경이름 확인
  - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
 
 ## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
