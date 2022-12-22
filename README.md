@@ -62,9 +62,9 @@
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install imutils
  - (BrainAI) C:\BrainAI>pip install pyserial
- - (BrainAI) C:\BrainAI>pip install openvino==2022.1.0
- - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.1.0
- - (BrainAI) C:\BrainAI>pip install openvino-dev[tensorflow]
+ - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.3.0
+ - (BrainAI) C:\BrainAI>pip install git
+ - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 학습 환경 테스트
@@ -84,18 +84,12 @@
  - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
 
 ## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
- - Git 다운 로드 링크
-https://github.com/git-for-windows/git/releases/download/v2.35.1.windows.2/Git-2.35.1.2-64-bit.exe
- - 윈도 명령 프롬프트 C:\BrainAI>git clone --depth=1 https://github.com/openvinotoolkit/openvino_notebooks.git
 
+  인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
+  참고 링크: https://docs.openvino.ai/2022.3/home.html
 
-  인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. 
-
-  참고 링크: https://docs.openvino.ai/2022.1/index.html
-
-  인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.
-  
-  참고 링크: https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.1/models_bin/
+  인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
+  참고 링크: https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/
   
 ### 주피터랩 크롬 브라우저에 자동 실행이 안될 경우 아래 링크를 참고하세요.
   참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
