@@ -63,6 +63,7 @@
  - (BrainAI) C:\BrainAI>pip install imutils
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.3.0
+ * 참고링크: https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools 
  - (BrainAI) C:\BrainAI>pip install git
  - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
