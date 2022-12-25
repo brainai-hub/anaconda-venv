@@ -53,7 +53,7 @@
 
 ## 4. 라이브러리 및 패키지 설치
 
-  학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, 넘파이, opencv-python, Pyserial, imutils, openvino, openvino-dev(버전 2022.1.0) 등
+  학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, 넘파이, opencv-python, Pyserial, imutils, openvino, openvino-dev(버전 2022.3.0) 등
   <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
