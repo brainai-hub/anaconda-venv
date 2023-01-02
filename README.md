@@ -34,7 +34,7 @@
 
   - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
 
-  - 참고 링크 : https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
+  - 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
 
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
 
