@@ -37,6 +37,7 @@
   - 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
 
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:200px;">
+  * 설치 후 컴퓨터를 재시작합니다.
 
 ## 3. 아나콘다 가상 학습 환경 만들기
 
