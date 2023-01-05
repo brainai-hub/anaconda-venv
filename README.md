@@ -55,7 +55,7 @@
 ### Tip. 가상 학습 환경 삭제하기
 
   가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 다음을 참고하세요. <br><br>
- - Anaconda Prompt(Anaconda3)에서
+ - Anaconda Prompt(Anaconda3) 창 열기
  - (Base) C:\WINDOWS\System32\conda info --envs
     * 가상환경이름 확인
  - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
