@@ -74,6 +74,8 @@
  - (BrainAI) C:\BrainAI>pip install openvino==2022.3.0
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.3.0<br>
    참고링크: https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools <br>
+ - (BrainAI) C:\BrainAI>pip install torch
+ - (BrainAI) C:\BrainAI>pip install fastseg
  - (BrainAI) C:\BrainAI>pip install git
  - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
