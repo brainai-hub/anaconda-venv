@@ -94,6 +94,9 @@
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
   참고 링크: https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/
   
+  인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
+  참고 링크: https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
+  
 ### 주피터랩 크롬 브라우저에 자동 실행이 안될 경우 아래 링크를 참고하세요.
   참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
   
