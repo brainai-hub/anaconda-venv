@@ -77,6 +77,7 @@
  - (BrainAI) C:\BrainAI>pip install torch
  - (BrainAI) C:\BrainAI>pip install fastseg
  - (BrainAI) C:\BrainAI>pip install paddlepaddle
+ - (BrainAI) C:\BrainAI>conda install -c conda-forge onnx
  - (BrainAI) C:\BrainAI>pip install git
  - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
