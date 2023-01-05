@@ -51,7 +51,15 @@
  - (base) C:\BrainAI>conda create --name BrainAI python=3.8 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
+ 
+### Tip. 가상 학습 환경 삭제하기
 
+  가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 아래 링크를 참고하세요. 
+    * Anaconda Prompt(Anaconda3)에서 
+ - (Base) C:\WINDOWS\System32\conda info --envs
+    * 가상환경이름 확인
+ - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
+ 
 ## 4. 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, 넘파이, opencv-python, Pyserial, imutils, openvino, openvino-dev(버전 2022.3.0) 등
@@ -68,9 +76,6 @@
  * 참고링크: https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools 
  - (BrainAI) C:\BrainAI>pip install git
  - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
- - (BrainAI) C:\BrainAI>cd openvino_notebooks
- - (BrainAI) C:\BrainAI>openvino_notebooks>pip install -r requirements.txt
- - (BrainAI) C:\BrainAI>openvino_notebooks>cd..
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 학습 환경 테스트
@@ -80,16 +85,7 @@
   
 <b> Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다. </b>
 
-
-## Tip. 가상 학습 환경 삭제하기
-
-  가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 아래 링크를 참고하세요. 
-    * Anaconda Prompt(Anaconda3)에서 
- - (Base) C:\WINDOWS\System32\conda info --envs
-    * 가상환경이름 확인
- - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
-
-## Tip. OpenVINO™ Toolkit - Open Model Zoo repository
+### Tip. OpenVINO™ Toolkit - Open Model Zoo repository
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
   참고 링크: https://docs.openvino.ai/2022.3/home.html
