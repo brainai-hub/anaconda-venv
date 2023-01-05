@@ -70,6 +70,7 @@
  - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>cd openvino_notebooks
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install -r requirements.txt
+ - (BrainAI) C:\BrainAI>openvino_notebooks>cd..
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 학습 환경 테스트
