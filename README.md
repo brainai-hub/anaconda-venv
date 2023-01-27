@@ -66,8 +66,8 @@
   <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
- - (BrainAI) C:\BrainAI>pip install tensorflow==2.4
- - (BrainAI) C:\BrainAI>pip install numpy==1.19.5
+ - (BrainAI) C:\BrainAI>pip install tensorflow==2.5
+ - (BrainAI) C:\BrainAI>pip install numpy==1.19.2
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install imutils
  - (BrainAI) C:\BrainAI>pip install pyserial
