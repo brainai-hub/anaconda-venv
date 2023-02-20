@@ -78,6 +78,7 @@
  - (BrainAI) C:\BrainAI>pip install fastseg
  - (BrainAI) C:\BrainAI>pip install paddlepaddle
  - (BrainAI) C:\BrainAI>conda install -c conda-forge onnx
+  * https://git-scm.com/download/win 윈도 git 설치
  - (BrainAI) C:\BrainAI>pip install python-git
  - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
