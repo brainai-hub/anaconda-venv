@@ -78,9 +78,6 @@
  - (BrainAI) C:\BrainAI>pip install fastseg
  - (BrainAI) C:\BrainAI>pip install paddlepaddle
  - (BrainAI) C:\BrainAI>conda install -c conda-forge onnx
-  * https://git-scm.com/download/win 윈도 git 설치
- - (BrainAI) C:\BrainAI>pip install python-git
- - (BrainAI) C:\BrainAI>git clone https://github.com/openvinotoolkit/openvino_notebooks.git
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 학습 환경 테스트
@@ -91,15 +88,18 @@
 <b> Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다. </b>
 
 ### Tip. OpenVINO™ Toolkit - Open Model Zoo repository
+  
+  인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
+  https://github.com/openvinotoolkit/openvino_notebooks.git
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
-  참고 링크: https://docs.openvino.ai/2022.3/home.html
+  https://docs.openvino.ai/2022.3/home.html
 
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
-  참고 링크: https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/
+  https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/
   
   인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
-  참고 링크: https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
+  https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
   
 ### 주피터랩 크롬 브라우저에 자동 실행이 안될 경우 아래 링크를 참고하세요.
   참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
