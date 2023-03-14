@@ -89,8 +89,8 @@
   https://github.com/openvinotoolkit/openvino_notebooks.git
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
-  https://docs.openvino.ai/2022.3/home.html
-   참고링크: https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools <br>
+  https://docs.openvino.ai/2022.3/home.html <br>
+  https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools <br>
  - (BrainAI) C:\BrainAI>pip install torch
  - (BrainAI) C:\BrainAI>pip install fastseg
  - (BrainAI) C:\BrainAI>pip install paddlepaddle
