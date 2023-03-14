@@ -73,11 +73,7 @@
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>pip install openvino==2022.3.0
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2022.3.0<br>
-   참고링크: https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools <br>
- - (BrainAI) C:\BrainAI>pip install torch
- - (BrainAI) C:\BrainAI>pip install fastseg
- - (BrainAI) C:\BrainAI>pip install paddlepaddle
- - (BrainAI) C:\BrainAI>conda install -c conda-forge onnx
+
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 학습 환경 테스트
@@ -94,7 +90,12 @@
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
   https://docs.openvino.ai/2022.3/home.html
-
+   참고링크: https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools <br>
+ - (BrainAI) C:\BrainAI>pip install torch
+ - (BrainAI) C:\BrainAI>pip install fastseg
+ - (BrainAI) C:\BrainAI>pip install paddlepaddle
+ - (BrainAI) C:\BrainAI>conda install -c conda-forge onnx
+ 
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
   https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/
   
