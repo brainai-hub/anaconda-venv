@@ -85,6 +85,8 @@
 
 
 ---
+사전 과제는 여기까지입니다.
+---
 
 
 ### Tip. OpenVINO™ Toolkit - Open Model Zoo repository
