@@ -84,9 +84,11 @@
 <b> Tensorflow 2.#.# 버전이 출력되면 가상 학습 환경이 정상적으로 설치된 것입니다. </b>
 
 
+사전 과제를 모두 완료하였습니다. 수고하셨습니다.
 ---
-사전 과제는 여기까지입니다.
----
+
+아래 내용은 인텔 OpenVINO 사용시 참고 링크입니다.
+***
 
 
 ### Tip. OpenVINO™ Toolkit - Open Model Zoo repository
