@@ -39,9 +39,9 @@
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
   * 설치 후 컴퓨터를 재시작합니다.
 
-## 3. 아나콘다 가상 학습 환경 만들기
+## 3. 아나콘다 가상 환경 만들기
 
-  Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 학습 환경을 만듭니다.
+  Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.JPG" style="width:369px;height:156px;">
  
@@ -52,9 +52,9 @@
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
  
-### Tip. 가상 학습 환경 삭제하기
+### Tip. 가상 환경 삭제하기
 
-  가상 학습 환경을 완전히 삭제하고 다시 설치하고 싶으면 다음을 참고하세요. <br><br>
+  가상 환경을 완전히 삭제하고 다시 설치하고 싶으면 다음을 참고하세요. <br><br>
  - Anaconda Prompt(Anaconda3) 창 열기
  - (Base) C:\WINDOWS\System32\conda info --envs
     * 가상환경이름 확인
