@@ -41,7 +41,10 @@
 
 ## 3. 아나콘다 가상 환경 만들기
 
-  Anaconda Promt (Anaconda3) Command 창(아래 이미지 참고)에서 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
+ - 3-1. 시작 메뉴에서 Anaconda3 (64-bit)폴더를 찾습니다.
+ - 3-2. Anaconda Prompt (Anaconda3) 메뉴를 오른쪽 마우스 버튼을 클릭한 후 [자세히]-[관리자 권한으로 실행]을 찾아 왼쪽 마우스 버튼을 클릭하여 실행합니다.  
+![image](https://github.com/brainai-hub/anaconda-venv/assets/73767162/302a28fb-fb12-47e7-9ecf-4930555ae07f)
+ - 3-3. 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
  
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-05.png">
  
