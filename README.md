@@ -44,7 +44,7 @@
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda create --name BrainAI python=3.12 anaconda
+ - (base) C:\BrainAI>conda create --name BrainAI python=3.11 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
  
@@ -62,9 +62,9 @@
   <br><br>
  
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
- - (BrainAI) C:\BrainAI>pip install tensorflow==2.5
+ - (BrainAI) C:\BrainAI>pip install tensorflow
  - (BrainAI) C:\BrainAI>pip install opencv-python
- - (BrainAI) C:\BrainAI>pip install openvino==2023.2
+ - (BrainAI) C:\BrainAI>pip install openvino
 
  - (BrainAI) C:\BrainAI>jupyter lab
 
