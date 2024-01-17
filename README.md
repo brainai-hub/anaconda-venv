@@ -62,10 +62,8 @@
   <br><br>
  
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
- - (BrainAI) C:\BrainAI>pip install tensorflow
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install openvino
-
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 환경 테스트
