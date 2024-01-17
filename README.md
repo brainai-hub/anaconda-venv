@@ -1,5 +1,5 @@
 ## Intel® AI for Youth 프로그램 학습을 위한 가상 학습 환경 만들기.
-  ## 아나콘다 파이썬 3.8 버전 설치
+  ## 아나콘다 파이썬 3.11 버전 설치
       
 <a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a>  중 AI for Youth Program의 <br>
   Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9, Module 10 <br>
@@ -63,6 +63,8 @@
  
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install opencv-python
+ - (BrainAI) C:\BrainAI>pip install flask
+ - (BrainAI) C:\BrainAI>pip install flask_wtf
  - (BrainAI) C:\BrainAI>pip install openvino
  - (BrainAI) C:\BrainAI>jupyter lab
 
