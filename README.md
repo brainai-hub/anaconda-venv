@@ -61,7 +61,7 @@
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, opencv-python, openvino, 등
   <br><br>
  
- - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
+ - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install tensorflow
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install openvino
