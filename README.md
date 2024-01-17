@@ -15,7 +15,7 @@
 
 ## 1. 아나콘다(Anaconda) 설치
 
-1.1 아나콘다 파이썬 3.8 버전을 아나콘다 Archive 폴더에서 찾아 다운로드합니다.<br>
+1.1 아나콘다 최신 버전을 찾아 다운로드합니다.<br>
  
    - <b> 다운로드 링크:</b> https://www.anaconda.com/download <br>
  <a href="https://www.anaconda.com/download" target="_blank"> 
