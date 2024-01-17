@@ -99,16 +99,11 @@ ___
   인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
   https://github.com/openvinotoolkit/openvino_notebooks.git
 
-  인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
-  https://docs.openvino.ai/2022.3/home.html <br>
-  https://docs.openvino.ai/2022.3/openvino_docs_install_guides_install_dev_tools.html#install-dev-tools <br>
- - (BrainAI) C:\BrainAI>pip install torch
- - (BrainAI) C:\BrainAI>pip install fastseg
- - (BrainAI) C:\BrainAI>pip install paddlepaddle
- - (BrainAI) C:\BrainAI>conda install -c conda-forge onnx
- 
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
-  https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/
+  [https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)
+
+  인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
+  [https://docs.openvino.ai/2022.3/home.html](https://docs.openvino.ai/2023.2/get_started.html) <br>
   
   인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
   https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
