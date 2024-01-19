@@ -87,6 +87,10 @@
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
   * 설치 후 컴퓨터를 재시작합니다.
 
+## 7. Visual Studio Code 설치
+
+  - <b> 다운로드 링크: </b> [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://code.visualstudio.com/)
+
 #### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
 
   참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
