@@ -70,7 +70,7 @@
  - 주피터 랩에서 아래 코드 입력 <br>
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-venv-06.png" >
   
-<b> OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다. </b>
+* OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다.
 
 ## 6. OpenVINO™ Toolkit - Open Model Zoo repository
   
