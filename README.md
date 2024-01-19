@@ -9,9 +9,11 @@
   AI for Youth 프로그램을 이용한 AI 학습을 위해 다음 순서로 가상 학습 환경을 만들어 봅시다.
   
   1. 아나콘다(Anaconda) 설치
-  2. Visual Studio 패키지 설치
-  3. 아나콘다 가상 학습 환경 만들기
-  4. 라이브러리 및 패키지 설치
+  2. 아나콘다 가상 환경 만들기
+  3. 파이썬 라이브러리 및 패키지 설치
+  4. 가상 환경 테스트
+  5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
+  6. Visual Studio 패키지 설치
 
 ## 1. 아나콘다(Anaconda) 설치
 
@@ -62,7 +64,7 @@
   
 * OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다.
 
-## 5. OpenVINO™ Toolkit - Open Model Zoo repository
+## 5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
   
   인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
   https://github.com/openvinotoolkit/openvino_notebooks.git
