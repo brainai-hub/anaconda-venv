@@ -48,7 +48,8 @@
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
  
-#### Tip. 가상 환경 삭제하기 <br>
+#### Tip. 가상 환경 삭제하기
+
   가상 환경을 완전히 삭제하고 다시 설치하고 싶으면 다음을 참고하세요. <br>
  - Anaconda Prompt(Anaconda3) 창 열기
  - (Base) C:\WINDOWS\System32\conda info --envs
@@ -58,8 +59,6 @@
 ## 4. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, opencv-python, openvino, 등
-  <br><br>
- 
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install flask
@@ -68,7 +67,6 @@
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 5. 가상 환경 테스트
-
  - 주피터 랩에서 아래 코드 입력 <br>
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-venv-06.png" >
   
