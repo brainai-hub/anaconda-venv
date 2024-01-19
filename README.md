@@ -24,23 +24,13 @@
  
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-01.PNG" style="width:501px;height:390px;">
 
- 
-## 2. Visual Studio 패키지 설치
+## 2. 아나콘다 가상 환경 만들기
 
-  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
-
-  - 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
-
-  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
-  * 설치 후 컴퓨터를 재시작합니다.
-
-## 3. 아나콘다 가상 환경 만들기
-
- #### 3-1. 시작 메뉴에서 Anaconda3 (64-bit)폴더를 찾습니다. Anaconda Prompt (Anaconda3) 메뉴를 오른쪽 마우스 버튼을 클릭한 후 [자세히]-[관리자 권한으로 실행]을 찾아 왼쪽 마우스 버튼을 클릭하여 실행합니다.  
+ #### 2-1. 시작 메뉴에서 Anaconda3 (64-bit)폴더를 찾습니다. Anaconda Prompt (Anaconda3) 메뉴를 오른쪽 마우스 버튼을 클릭한 후 [자세히]-[관리자 권한으로 실행]을 찾아 왼쪽 마우스 버튼을 클릭하여 실행합니다.  
 
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-02.PNG">
  
- #### 3-2. 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
+ #### 2-2. 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
@@ -56,7 +46,7 @@
     * 가상환경이름 확인
  - (Base) C:\WINDOWS\System32\conda env remove --n 가상환경이름 
  
-## 4. 파이썬 라이브러리 및 패키지 설치
+## 3. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, opencv-python, openvino 등
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
@@ -66,13 +56,13 @@
  - (BrainAI) C:\BrainAI>pip install openvino
  - (BrainAI) C:\BrainAI>jupyter lab
 
-## 5. 가상 환경 테스트
+## 4. 가상 환경 테스트
  - 주피터 랩에서 아래 코드 입력 <br>
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-venv-06.png" >
   
 * OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다.
 
-## 6. OpenVINO™ Toolkit - Open Model Zoo repository
+## 5. OpenVINO™ Toolkit - Open Model Zoo repository
   
   인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
   https://github.com/openvinotoolkit/openvino_notebooks.git
@@ -85,7 +75,16 @@
   
   인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
   https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
-  
+
+## 6. Visual Studio 패키지 설치
+
+  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
+
+  - 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
+
+  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
+  * 설치 후 컴퓨터를 재시작합니다.
+
 #### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
 
   참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
