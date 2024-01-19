@@ -52,10 +52,10 @@
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, opencv-python, openvino 등
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
+ - (BrainAI) C:\BrainAI>pip install openvino
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install flask
  - (BrainAI) C:\BrainAI>pip install flask_wtf
- - (BrainAI) C:\BrainAI>pip install openvino
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 4. 가상 환경 테스트
