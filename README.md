@@ -61,8 +61,10 @@
 ## 4. 가상 환경 테스트
  - 주피터 랩에서 아래 코드 입력 <br>
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-03.PNG" >
-  
-* OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다.
+* OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다.\
+
+##### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
+* 참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
 
 ## 5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
   
@@ -91,7 +93,6 @@
 
   - <b> 다운로드 링크: </b> [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://code.visualstudio.com/)
 
-#### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
-
-  참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
+수고 하셨습니다. <br>
+이제 AI Project 개발을 위한 환경이 모두 갖추어졌습니다.
 
