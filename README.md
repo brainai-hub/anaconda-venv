@@ -48,8 +48,7 @@
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
  
-### Tip. 가상 환경 삭제하기
-
+#### Tip. 가상 환경 삭제하기
   가상 환경을 완전히 삭제하고 다시 설치하고 싶으면 다음을 참고하세요. <br><br>
  - Anaconda Prompt(Anaconda3) 창 열기
  - (Base) C:\WINDOWS\System32\conda info --envs
