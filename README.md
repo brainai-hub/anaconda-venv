@@ -58,7 +58,7 @@
  
 ## 4. 파이썬 라이브러리 및 패키지 설치
 
-  학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, 텐서플로우, opencv-python, openvino, 등
+  학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, opencv-python, openvino 등
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install flask
@@ -70,19 +70,9 @@
  - 주피터 랩에서 아래 코드 입력 <br>
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-venv-06.png" >
   
-<b> Tensorflow 2.#.# 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다. </b>
+<b> OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다. </b>
 
-
-사전 과제를 모두 완료하였습니다. 수고하셨습니다.
----
-
-
-___
-아래 내용은 인텔 OpenVINO 사용시 참고 링크입니다.
-***
-
-
-### Tip. OpenVINO™ Toolkit - Open Model Zoo repository
+## 6. OpenVINO™ Toolkit - Open Model Zoo repository
   
   인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
   https://github.com/openvinotoolkit/openvino_notebooks.git
@@ -96,6 +86,7 @@ ___
   인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
   https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
   
-### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
+#### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
+
   참고 링크: http://egloos.zum.com/doodoodoo/v/2244082
 
