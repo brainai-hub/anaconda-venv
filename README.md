@@ -54,8 +54,6 @@
  - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install openvino
  - (BrainAI) C:\BrainAI>pip install opencv-python
- - (BrainAI) C:\BrainAI>pip install flask
- - (BrainAI) C:\BrainAI>pip install flask_wtf
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 4. 가상 환경 테스트
