@@ -71,7 +71,7 @@
   https://github.com/openvinotoolkit/openvino_notebooks.git
 
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
-  [https://storage.openvinotoolkit.org/repositories/open_model_zoo/2022.3/models_bin/1/](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)
+  [(https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
   [https://docs.openvino.ai/2022.3/home.html](https://docs.openvino.ai/2023.2/get_started.html) <br>
