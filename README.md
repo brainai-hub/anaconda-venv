@@ -74,7 +74,7 @@
   [(https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)
 
   인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
-  [https://docs.openvino.ai/2022.3/home.html](https://docs.openvino.ai/2023.2/get_started.html) <br>
+  [(https://docs.openvino.ai/2023.2/get_started.html)](https://docs.openvino.ai/2023.3/home.html) <br>
   
   인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
   https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
