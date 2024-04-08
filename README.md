@@ -36,7 +36,7 @@
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda create --name BrainAI python=3.11 anaconda
+ - (base) C:\BrainAI>conda create --name BrainAI python=3.11.8 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
  
@@ -51,7 +51,7 @@
 ## 3. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, opencv-python, openvino 등
- - (BrainAI) C:\BrainAI>python.exe -m pip install --upgrade --user pip
+ - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install tensorflow==2.13.1
  - (BrainAI) C:\BrainAI>pip install openvino==2023.3.0
  - (BrainAI) C:\BrainAI>pip install opencv-python
