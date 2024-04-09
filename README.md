@@ -55,6 +55,7 @@
  - (BrainAI) C:\BrainAI>pip install tensorflow==2.13.1
  - (BrainAI) C:\BrainAI>pip install openvino==2023.3.0
  - (BrainAI) C:\BrainAI>pip install opencv-python
+ - (BrainAI) C:\BrainAI>pip install -q ipywidgets
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 4. 가상 환경 테스트
