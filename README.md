@@ -94,6 +94,16 @@
 
   - <b> 다운로드 링크: </b> [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://code.visualstudio.com/)
 
+## 참고
+jupyter lab에서 error displaying widget 해결하기
+(2024.05.08. 기준)
+
+* jupyter lab 버전 4.0.11 에서 error displaying widget 발생
+ - ipywidgets 라이브러리와 호환성 문제
+ - pip uninstall ipywidgets
+ - pip install ipywidgets==8.0.7
+   
+
 수고 하셨습니다. <br>
 이제 AI Project 개발을 위한 환경이 모두 갖추어졌습니다.
 
