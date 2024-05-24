@@ -36,7 +36,7 @@
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda create --name BrainAI python=3.11.8 anaconda
+ - (base) C:\BrainAI>conda create --name BrainAI python==3.11.8 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
  
