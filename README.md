@@ -17,10 +17,10 @@
 
 ## 1. 아나콘다(Anaconda) 설치
 
-1.1 아나콘다 최신 버전을 찾아 다운로드합니다.<br>
+1.1 아나콘다 파이썬 3.11 버전을 찾아 다운로드합니다.<br>
  
    - <b> 다운로드 링크:</b>  <br>
- <a href="https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe" target="_blank"> https://repo.anaconda.com/archive/ </a>
+ <a href="https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe"> https://repo.anaconda.com/archive/ </a> <br><br>
     - <b> 아나콘다 Archive 링크:</b>  <br>
  <a href="https://repo.anaconda.com/archive/" target="_blank"> https://repo.anaconda.com/archive/ </a>
 
