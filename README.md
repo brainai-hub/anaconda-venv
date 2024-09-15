@@ -54,6 +54,7 @@
  - (BrainAI) C:\BrainAI>pip install opencv-python==4.9.0.80
  - (BrainAI) C:\BrainAI>pip install ipywidgets==8.1.2
  - (BrainAI) C:\BrainAI>pip install tensorflow==2.13.1
+ - (BrainAI) C:\BrainAI>pip install ultralytics
  - (BrainAI) C:\BrainAI>pip install gradio
  - (BrainAI) C:\BrainAI>pip install streamlit
  - (BrainAI) C:\BrainAI>jupyter lab
