@@ -67,7 +67,16 @@
 ##### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
 * 참고 링크: [http://egloos.zum.com/doodoodoo/v/2244082](https://zephyrus1111.tistory.com/336)
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-04.PNG" >
-## 5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
+
+
+## 5. Visual Studio 패키지 설치
+
+ - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
+ * 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
+  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
+  * 설치 후 컴퓨터를 재시작합니다.
+
+## 참고. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
   
   인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
   https://github.com/openvinotoolkit/openvino_notebooks.git
@@ -79,29 +88,8 @@
   [(https://docs.openvino.ai/2023.3/get_started.html)](https://docs.openvino.ai/2023.3/home.html) <br>
   
   인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
-  https://github.com/openvinotoolkit/open_model_zoo/tree/master/models
+  https://github.com/openvinotoolkit/open_model_zoo/tree/master/models 
 
-## 6. Visual Studio 패키지 설치
-
-  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
-
-  - 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
-
-  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
-  * 설치 후 컴퓨터를 재시작합니다.
-
-## 7. Visual Studio Code 설치
-
-  - <b> 다운로드 링크: </b> [https://aka.ms/vs/17/release/vc_redist.x64.exe](https://code.visualstudio.com/)
-
-## 참고
-jupyter lab에서 error displaying widget 해결하기
-(2024.05.08. 기준)
-
-* jupyter lab 버전 4.0.11 에서 error displaying widget 발생
- - ipywidgets 라이브러리와 호환성 문제
- - pip uninstall ipywidgets
- - pip install ipywidgets==8.0.7
 
 #### Tip. 가상 환경 삭제하기
 
