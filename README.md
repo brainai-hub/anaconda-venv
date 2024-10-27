@@ -43,12 +43,17 @@
  - (base) C:\BrainAI>conda create --name BrainAI python==3.11.8 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
- 
 
-## 3. 파이썬 라이브러리 및 패키지 설치
+## 3. 인텔 OpenVINO notebooks 다운 받아 C:\BrainAI\폴더에 위치시키기
+  인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
+  https://github.com/openvinotoolkit/openvino_notebooks.git
+  
+## 4. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, opencv-python, openvino 등
  - (BrainAI) C:\BrainAI>pip install --upgrade --user pip
+ - (BrainAI) C:\BrainAI>pip install --upgrade pip wheel setuptools
+ - (BrainAI) C:\BrainAI>pip install -r requirements.txt
  - (BrainAI) C:\BrainAI>pip install openvino==2024.0.0
  - (BrainAI) C:\BrainAI>pip install openvino-dev==2024.0.0
  - (BrainAI) C:\BrainAI>pip install opencv-python==4.9.0.80
@@ -78,9 +83,6 @@
 
 ## 참고. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
   
-  인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
-  https://github.com/openvinotoolkit/openvino_notebooks.git
-
   인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
   [(https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)
 
