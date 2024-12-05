@@ -55,7 +55,7 @@
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install --upgrade --user pip
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install --upgrade pip wheel setuptools
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install -r requirements.txt
- - (BrainAI) C:\BrainAI>openvino_notebooks>pip install openvino>=2024.1.0
+ - (BrainAI) C:\BrainAI>openvino_notebooks>pip install openvino>=2024.0.0
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install opencv-python
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install ipywidgets==8.1.2
  - (BrainAI) C:\BrainAI>openvino_notebooks>jupyter lab
