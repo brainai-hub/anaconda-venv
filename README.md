@@ -42,7 +42,10 @@
 
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
- 
+아나콘다 가상 환경을 활성화 하는 명령은 'conda activate BrainAI' 입니다. 가상 환경이 활성화되면 (base)가 (BrainAI)로 변경된 것을 확인할 수 있습니다.
+<img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-0302.png" >
+
+
 ## 3. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. 
