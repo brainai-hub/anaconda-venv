@@ -3,13 +3,13 @@
       
 * 참고 사이트: https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows
 ( 필수 ) 
-  1. 아나콘다(Anaconda) 설치
-  2. 아나콘다 가상 환경 만들기
-  3. 파이썬 라이브러리 및 패키지 설치
-  4. 가상 환경 테스트
+1. 아나콘다(Anaconda) 설치
+2. 아나콘다 가상 환경 만들기
+3. 파이썬 라이브러리 및 패키지 설치
+4. 가상 환경 테스트
 ( 선택 )
-  5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
-  6. Visual Studio 패키지 설치
+5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
+6. Visual Studio 패키지 설치
 
 ## 1. 아나콘다(Anaconda) 설치
 
