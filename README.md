@@ -37,13 +37,16 @@
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
  - (base) C:\BrainAI>conda create --name BrainAI python==3.11.8 anaconda <br>
+ 
 설치가 진행되는 동안에 아래 이미지와 같이 'y'를 입력하고 엔터를 눌러 진행하는 부분이 있습니다.
+
 <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-0301.png" >
 
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
    
 아나콘다 가상 환경을 활성화 하는 명령은 'conda activate BrainAI' 입니다. 가상 환경이 활성화되면 (base)가 (BrainAI)로 변경된 것을 확인할 수 있습니다.
+
 <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-0302.png" >
 
 
