@@ -64,8 +64,8 @@
 
 ## 4. 가상 환경 테스트
  - 주피터 랩에서 아래 코드 입력 <br>
-  <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-03.png" >
-* OpenVINo 버전이 출력되면 가상 환경이 정상적으로 설치된 것입니다.\
+  <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-0401.png" >
+* Code와 Markdown 메뉴를 이용하여 아래 문서와 코드를 완성한 후 Ctrl + Enter 또는 Shift + Enter를 이용하여 실행합니다. 왼쪽에 *가 나타나면 실행중입니다. 잠시 기다린 후 숫자가 나타나면 모두 잘 설치된 것입니다.
 
 ##### 주피터 랩이 크롬 브라우저에서 자동 실행이 안될 경우 아래 링크를 참고하세요.
 * 참고 링크: [http://egloos.zum.com/doodoodoo/v/2244082](https://zephyrus1111.tistory.com/336)
