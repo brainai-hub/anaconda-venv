@@ -17,7 +17,7 @@
  
    - <b> 다운로드 링크:</b>  <br>
 [https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe](https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe) <br><br>
-   - <b> 아나콘다 Archive 링크:</b>  <br>   
+   * 참고. 아나콘다 Archive 링크:  <br>   
  <a href="https://repo.anaconda.com/archive/" target="_blank"> https://repo.anaconda.com/archive/ </a>
 
 
