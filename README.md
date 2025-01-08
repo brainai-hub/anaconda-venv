@@ -1,13 +1,7 @@
-## Intel® AI for Youth 프로그램 학습을 위한 가상 학습 환경 만들기.
+## Intel 오픈비노 툴킷(OpenVINO Toolkits) 활용 AI 프로젝트 개발을 위한 가상 학습 환경 만들기.
   ## 아나콘다 파이썬 3.11 버전 설치
       
-<a href="https://www.intel.com/content/www/us/en/corporate/artificial-intelligence/digital-readiness-home.html" target=_blank> Intel® Digital Readiness Programs </a>  중 AI for Youth Program의 <br>
-  Stage 3. 실력키우기 / Module 5, Module 6, Module 8, Module 9, Module 10 <br>
-  Stage 4. 소셜임팩트 창출하기 / Module 11 Use Cases 실습을 위한 가상 학습 환경 만들기에 대한 도움 자료입니다. <br>
-  AI for Youth 참고 사이트: https://brainai.kr/ai4y/ <br>
-  AI for Youth 프로그램 코딩 실습 및 프로젝트 개발 실습은 초보자도 쉽게 시작할 수 있는 아나콘다 주피터 랩 환경을 이용합니다.<br>
-  AI for Youth 프로그램을 이용한 AI 학습을 위해 다음 순서로 가상 학습 환경을 만들어 봅시다.
-  
+* 참고 사이트: https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows   
   1. 아나콘다(Anaconda) 설치
   2. 아나콘다 가상 환경 만들기
   3. 파이썬 라이브러리 및 패키지 설치
