@@ -59,6 +59,7 @@
  - (BrainAI) C:\BrainAI>pip uninstall opencv-python 
  - (BrainAI) C:\BrainAI>pip install opencv-python
  - (BrainAI) C:\BrainAI>pip install openvino>=2024.0.0
+ - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 4. 가상 환경 테스트
