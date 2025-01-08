@@ -27,11 +27,11 @@
 
 ## 2. 아나콘다 가상 환경 만들기
 
- #### 2-1. 시작 메뉴에서 Anaconda3 (64-bit)폴더를 찾습니다. Anaconda Prompt (Anaconda3) 메뉴를 오른쪽 마우스 버튼을 클릭한 후 [자세히]-[관리자 권한으로 실행]을 찾아 왼쪽 마우스 버튼을 클릭하여 실행합니다.  
+2-1. 시작 메뉴에서 Anaconda3 (64-bit)폴더를 찾습니다. Anaconda Prompt (Anaconda3) 메뉴를 오른쪽 마우스 버튼을 클릭한 후 [자세히]-[관리자 권한으로 실행]을 찾아 왼쪽 마우스 버튼을 클릭하여 실행합니다.  
 
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-02.PNG">
  
- #### 2-2. 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
+ 2-2. 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
