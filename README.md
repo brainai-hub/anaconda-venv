@@ -31,8 +31,8 @@
 
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-02.PNG">
  
- 2-2. 다음 순서대로 명령을 실행하여 가상 환경을 만듭니다.
- - (base) C:\WINDOWS\system32>cd\
+ 2-2. 다음 진한색으로 되어 있는 부분을 순서대로 실행하여 가상 환경을 만듭니다. 
+ - (base) C:\WINDOWS\system32><b>cd\ </b>
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
  - (base) C:\BrainAI>conda create --name BrainAI python==3.11.8 anaconda
