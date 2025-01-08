@@ -36,19 +36,14 @@
  - (base) C:\BrainAI>conda create --name BrainAI python==3.11.8 anaconda
  - (base) C:\BrainAI>conda activate BrainAI
  - (BrainAI) C:\BrainAI>
+ 
+## 3. 파이썬 라이브러리 및 패키지 설치
 
-## 3. 인텔 OpenVINO notebooks 다운 받아 C:\BrainAI\폴더에 위치시키기
-  인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
-  https://github.com/openvinotoolkit/openvino_notebooks.git
-  - (BrainAI) C:\BrainAI>cd openvino_notebooks
-    
-## 4. 파이썬 라이브러리 및 패키지 설치
-
-  학습에 필요한 라이브러리 및 패키지를 설치합니다. pip 최신 버전, opencv-python, openvino 등
- - (BrainAI) C:\BrainAI>openvino_notebooks>pip install --upgrade --user pip
- - (BrainAI) C:\BrainAI>openvino_notebooks>pip install --upgrade pip wheel setuptools
- - (BrainAI) C:\BrainAI>openvino_notebooks>pip install -r requirements.txt
- - (BrainAI) C:\BrainAI>openvino_notebooks>pip install openvino>=2024.0.0
+  학습에 필요한 라이브러리 및 패키지를 설치합니다. 
+ - (BrainAI) C:\BrainAI>openvino_notebooks>pip install -upgrade --user pip
+ - (BrainAI) C:\BrainAI>openvino_notebooks>pip install ultralytics
+ - (BrainAI) C:\BrainAI>openvino_notebooks>pip install open-python-headless
+ - (BrainAI) C:\BrainAI>openvino_notebooks>pip uninstall opencv-python 
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install opencv-python
  - (BrainAI) C:\BrainAI>openvino_notebooks>pip install ipywidgets==8.1.2
  - (BrainAI) C:\BrainAI>openvino_notebooks>jupyter lab
@@ -62,8 +57,12 @@
 * 참고 링크: [http://egloos.zum.com/doodoodoo/v/2244082](https://zephyrus1111.tistory.com/336)
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-04.PNG" >
 
+## 5. 인텔 OpenVINO notebooks 다운 받아 C:\BrainAI\폴더에 위치시키기
+  인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
+  https://github.com/openvinotoolkit/openvino_notebooks.git
+  - (BrainAI) C:\BrainAI>cd openvino_notebooks
 
-## 5. Visual Studio 패키지 설치
+## 6. Visual Studio 패키지 설치
 
  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
  * 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
