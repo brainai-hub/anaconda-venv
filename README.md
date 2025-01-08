@@ -58,7 +58,6 @@
  - (BrainAI) C:\BrainAI>pip install opencv-python-headless
  - (BrainAI) C:\BrainAI>pip uninstall opencv-python 
  - (BrainAI) C:\BrainAI>pip install opencv-python
- - (BrainAI) C:\BrainAI>pip install ipywidgets==8.1.2
  - (BrainAI) C:\BrainAI>jupyter lab
 
 ## 4. 가상 환경 테스트
