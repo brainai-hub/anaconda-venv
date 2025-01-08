@@ -31,7 +31,8 @@
 
  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-02.PNG">
  
- 2-2. 다음 진한색으로 되어 있는 부분을 순서대로 실행하여 가상 환경을 만듭니다. 
+ 2-2. 다음 이미지를 참고하여 아래 순서대로 실행하여 가상 환경을 만듭니다. 
+   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-03.png" >
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
