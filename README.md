@@ -55,10 +55,6 @@
   학습에 필요한 라이브러리 및 패키지를 설치합니다. 
  - (BrainAI) C:\BrainAI>pip install -upgrade --user pip
  - (BrainAI) C:\BrainAI>pip install ultralytics
- - (BrainAI) C:\BrainAI>pip install opencv-python-headless
- - (BrainAI) C:\BrainAI>pip uninstall opencv-python 
- - (BrainAI) C:\BrainAI>pip install opencv-python
- - (BrainAI) C:\BrainAI>pip install openvino>=2024.0.0
  - (BrainAI) C:\BrainAI>pip install pyserial
  - (BrainAI) C:\BrainAI>jupyter lab
 
