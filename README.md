@@ -16,7 +16,7 @@
   
 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지와 같은 설치 과정에서 [All Users (requires admin privileges)]를 선택한 후 다음으로 진행합니다. 나머지 설치 과정에서는 모두 기본 값을 그대로 두고 설치합니다.
  
-  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-01.PNG" style="width:501px;height:390px;">
+  <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-01.png" style="width:501px;height:390px;">
 
 ## 2. 아나콘다 가상 환경 만들기
 
