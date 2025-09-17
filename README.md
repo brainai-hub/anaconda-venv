@@ -46,10 +46,16 @@
 ## 3. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. 
- - (BrainAI) C:\BrainAI>pip install -upgrade --user pip
- - (BrainAI) C:\BrainAI>pip install ultralytics
- - (BrainAI) C:\BrainAI>pip install pyserial
- - (BrainAI) C:\BrainAI>jupyter lab
+ - (BrainAI_Car) C:\BrainAI>pip install -upgrade --user pip
+ - (BrainAI_Car) C:\BrainAI>pip install tensorflow==2.19.0
+ - (BrainAI_Car) C:\BrainAI>pip install keras==3.11.2
+ - (BrainAI_Car) C:\BrainAI>pip install openvino==2025.2.0
+ - (BrainAI_Car) C:\BrainAI>pip install opencv-python
+ - (BrainAI_Car) C:\BrainAI>pip install pygame
+ - (BrainAI_Car) C:\BrainAI>pip install tkinter
+ - (BrainAI_Car) C:\BrainAI>pip install pyserial
+ - (BrainAI_Car) C:\BrainAI>jupyter lab
+
 
 ## 4. 가상 환경 테스트
  - 주피터 랩에서 아래 코드 입력 <br>
@@ -60,29 +66,13 @@
 * 참고 링크: [http://egloos.zum.com/doodoodoo/v/2244082](https://zephyrus1111.tistory.com/336)
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-04.PNG" >
 
-## 5. 인텔 OpenVINO notebooks 다운 받아 C:\BrainAI\폴더에 위치시키기
-  인텔 OpenVINO notebooks 다운로드 링크입니다. <br>
-  https://github.com/openvinotoolkit/openvino_notebooks.git
-  - (BrainAI) C:\BrainAI>cd openvino_notebooks
 
-## 6. Visual Studio 패키지 설치
+## 참고. Visual Studio 패키지 설치
 
  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
  * 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
   <img src="https://github.com/BrainAI-Lab/venv/blob/main/Anaconda-venv-04.JPG" style="width:760px;height:400px;">
   * 설치 후 컴퓨터를 재시작합니다.
-
-## 참고. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
-  
-  인텔 OpenVINO Pre-trained 모델 파일 다운로드 하고 싶으면 아래 링크를 참고하세요.<br>
-  [(https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)](https://storage.openvinotoolkit.org/repositories/open_model_zoo/2023.0/models_bin/1/)
-
-  인텔 OpenVINO Pre-trained 모델에 대해 자세히 알아보고 싶으면 아래 링크를 참고하세요. <br>
-  [(https://docs.openvino.ai/2023.3/get_started.html)](https://docs.openvino.ai/2023.3/home.html) <br>
-  
-  인텔 OpenVINO Model Zoo 다양한 Pre-trained 모델을 확인할 수 있습니다. <br>
-  https://github.com/openvinotoolkit/open_model_zoo/tree/master/models 
-
 
 #### Tip. 가상 환경 삭제하기
 
