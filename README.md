@@ -1,8 +1,6 @@
 ## BrainAI Car 자율 주행 AI 프로젝트 개발을 위한 가상 학습 환경 만들기.
   ## 아나콘다 파이썬 3.12 버전 설치
       
-* 참고 사이트: https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows <br>
-
 ( 필수 ) 
 1. 아나콘다(Anaconda) 설치
 2. 아나콘다 가상 환경 만들기
@@ -14,7 +12,7 @@
 1.1 아나콘다 최신 버전을 찾아 다운로드합니다.<br>
  
    - <b> 다운로드 링크:</b>  <br>
-   [https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe](https://www.anaconda.com/download/success)]
+   [https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe](https://www.anaconda.com/download/success)
   
 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지와 같은 설치 과정에서 [All Users (requires admin privileges)]를 선택한 후 다음으로 진행합니다. 나머지 설치 과정에서는 모두 기본 값을 그대로 두고 설치합니다.
  
