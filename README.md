@@ -52,7 +52,7 @@
  - (BrainAI_Car) C:\BrainAI>pip install openvino==2025.2.0
  - (BrainAI_Car) C:\BrainAI>pip install opencv-python
  - (BrainAI_Car) C:\BrainAI>pip install pygame
- - (BrainAI_Car) C:\BrainAI>pip install tkinter
+ - (BrainAI_Car) C:\BrainAI>pip install ultralytics
  - (BrainAI_Car) C:\BrainAI>pip install pyserial
  - (BrainAI_Car) C:\BrainAI>jupyter lab
 
