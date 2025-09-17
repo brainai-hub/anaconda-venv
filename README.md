@@ -67,7 +67,7 @@
   <img src="https://github.com/brainai-hub/anaconda-venv/blob/main/Anaconda-04.PNG" >
 
 
-## 참고. Visual Studio 패키지 설치
+### 참고. Visual Studio 패키지 설치
 
  - <b> 다운로드 링크: </b> https://aka.ms/vs/17/release/vc_redist.x64.exe
  * 참고 링크 : https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170 <br>
