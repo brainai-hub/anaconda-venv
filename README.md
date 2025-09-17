@@ -15,7 +15,6 @@
  
    - <b> 다운로드 링크:</b>  <br>
    [https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe](https://www.python.org/ftp/python/3.12.10/python-3.12.10-amd64.exe )
-   * 참고. 아나콘다 Archive 링크:  <a href="https://repo.anaconda.com/archive/" target="_blank"> https://repo.anaconda.com/archive/ </a>
   
 1.2 다운 받은 파일을 찾아 설치합니다. 설치 시 주의할 내용은 아래 이미지와 같은 설치 과정에서 [All Users (requires admin privileges)]를 선택한 후 다음으로 진행합니다. 나머지 설치 과정에서는 모두 기본 값을 그대로 두고 설치합니다.
  
