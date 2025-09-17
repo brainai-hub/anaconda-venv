@@ -1,5 +1,5 @@
-## Intel 오픈비노 툴킷(OpenVINO Toolkits) 활용 AI 프로젝트 개발을 위한 가상 학습 환경 만들기.
-  ## 아나콘다 파이썬 3.11 버전 설치
+## BrainAI Car 자율 주행 AI 프로젝트 개발을 위한 가상 학습 환경 만들기.
+  ## 아나콘다 파이썬 3.12 버전 설치
       
 * 참고 사이트: https://github.com/openvinotoolkit/openvino_notebooks/wiki/Windows <br>
 
@@ -9,13 +9,9 @@
 3. 파이썬 라이브러리 및 패키지 설치
 4. 가상 환경 테스트 <br>
 
-( 선택 )
-5. Intel OpenVINO™ Toolkit - Open Model Zoo repository 확인
-6. Visual Studio 패키지 설치
-
 ## 1. 아나콘다(Anaconda) 설치
 
-1.1 아나콘다 파이썬 3.11 버전을 찾아 다운로드합니다.<br>
+1.1 아나콘다 파이썬 3.12 버전을 찾아 다운로드합니다.<br>
  
    - <b> 다운로드 링크:</b>  <br>
 [https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe](https://repo.anaconda.com/archive/Anaconda3-2024.02-1-Windows-x86_64.exe) 
