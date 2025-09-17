@@ -29,7 +29,7 @@
  - (base) C:\WINDOWS\system32>cd\
  - (base) C:\mkdir BrainAI
  - (base) C:\cd BrainAI
- - (base) C:\BrainAI>conda create --name BrainAI python==3.11.8 anaconda <br>
+ - (base) C:\BrainAI>conda create --name BrainAI python==3.12.0 anaconda <br>
  
 설치가 진행되는 동안에 아래 이미지와 같이 'y'를 입력하고 엔터를 눌러 진행하는 부분이 있습니다.
 
