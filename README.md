@@ -46,7 +46,7 @@
 ## 3. 파이썬 라이브러리 및 패키지 설치
 
   학습에 필요한 라이브러리 및 패키지를 설치합니다. 
- - (BrainAI_Car) C:\BrainAI>pip install -upgrade --user pip
+ - (BrainAI_Car) C:\BrainAI>pip install --upgrade --user pip
  - (BrainAI_Car) C:\BrainAI>pip install tensorflow==2.19.0
  - (BrainAI_Car) C:\BrainAI>pip install keras==3.11.2
  - (BrainAI_Car) C:\BrainAI>pip install openvino==2025.2.0
